@@ -22,6 +22,7 @@ System::Void BarChart::MyForm::button1_Click(System::Object^ sender, System::Eve
 {
     MyForm1^ form2 = gcnew MyForm1();
     form2->Show();
+    int b = 0;
 
     float prob[5] = { 0 };
     prob[0] = (float)numeric1->Value;
