@@ -255,7 +255,7 @@ namespace BarChart {
 			this->button1->FlatStyle = System::Windows::Forms::FlatStyle::System;
 			this->button1->Font = (gcnew System::Drawing::Font(L"Mongolian Baiti", 16.2F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->button1->Location = System::Drawing::Point(237, 451);
+			this->button1->Location = System::Drawing::Point(195, 450);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(203, 62);
 			this->button1->TabIndex = 11;
